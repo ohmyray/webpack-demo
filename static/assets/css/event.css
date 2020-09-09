@@ -1,0 +1,14 @@
+
+#hoverTipsDiv .mapboxgl-popup-tip{
+    display: none;
+}
+
+#hoverTipsDiv .mapboxgl-popup-content{
+    padding: 0 1px!important;
+    border-radius: 0px!important;
+    border: 1px solid gray;
+    opacity: 0.8;
+}
+#clickTipsDiv .mapboxgl-popup-content{
+    background: rgba(255,255,255,0.7);
+}

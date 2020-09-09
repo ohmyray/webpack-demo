@@ -1,0 +1,2081 @@
+{
+  "id": "950411",
+  "name": "WEBGIS",
+  "font_family": "gisIconfont",
+  "css_prefix_text": "gisIcon-",
+  "description": "WEBGIS应用图标库",
+  "glyphs": [
+    {
+      "icon_id": "6928493",
+      "name": "WGS84经纬度",
+      "font_class": "WGSjingweidu",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "6928494",
+      "name": "Web墨卡托",
+      "font_class": "Webmoqiatuo",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "6928495",
+      "name": "变电站",
+      "font_class": "biandianzhan",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "6928497",
+      "name": "表号",
+      "font_class": "biaohao",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "6928499",
+      "name": "户号",
+      "font_class": "huhao",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "6928500",
+      "name": "发电厂",
+      "font_class": "fadianchang",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "6928502",
+      "name": "配电线路",
+      "font_class": "peidianxianlu",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "6928503",
+      "name": "配电站房",
+      "font_class": "peidianzhanfang",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "6928504",
+      "name": "全选",
+      "font_class": "quanxuan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "6928505",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "6928506",
+      "name": "输电线路",
+      "font_class": "shudianxianlu",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "6928507",
+      "name": "营业厅",
+      "font_class": "yingyeting",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "6928509",
+      "name": "柱上开关",
+      "font_class": "zhushangkaiguan",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "6930117",
+      "name": "配电电缆",
+      "font_class": "peidiandianlan",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "6930134",
+      "name": "户名",
+      "font_class": "huming",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "6933403",
+      "name": "兴趣点查询",
+      "font_class": "xingqudianchaxun",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "6955611",
+      "name": "道路查询",
+      "font_class": "daoluchaxun",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "6956295",
+      "name": "落火点",
+      "font_class": "lahuodian",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "7130258",
+      "name": "矩形",
+      "font_class": "juxing",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "7130259",
+      "name": "圆形",
+      "font_class": "yuanxing",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "7130260",
+      "name": "多边形",
+      "font_class": "duobianxing",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "7152577",
+      "name": "面",
+      "font_class": "mian",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "7152578",
+      "name": "线",
+      "font_class": "xian",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "7152579",
+      "name": "点",
+      "font_class": "dian1",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    },
+    {
+      "icon_id": "7202775",
+      "name": "退出",
+      "font_class": "tuichu",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "7202776",
+      "name": "所有设备",
+      "font_class": "suoyoushebei",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "7363018",
+      "name": "提示",
+      "font_class": "tishi",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "7363019",
+      "name": "成功",
+      "font_class": "chenggong",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "7363020",
+      "name": "失败",
+      "font_class": "shibai",
+      "unicode": "e657",
+      "unicode_decimal": 58967
+    },
+    {
+      "icon_id": "7722212",
+      "name": "设备树-电缆",
+      "font_class": "shebeishu-dianlan",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "7722213",
+      "name": "设备树-变电站",
+      "font_class": "shebeishu-biandianzhan",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "7722214",
+      "name": "设备树-变电",
+      "font_class": "shebeishu-biandian",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "7722215",
+      "name": "设备树-公司",
+      "font_class": "shebeishu-gongsi",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "7722216",
+      "name": "设备树-返回",
+      "font_class": "shebeishu-fanhui",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "7722217",
+      "name": "设备树-发电",
+      "font_class": "shebeishu-fadian",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "7722218",
+      "name": "设备树-分接箱",
+      "font_class": "shebeishu-fenjiexiang",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "7722219",
+      "name": "设备树-分支",
+      "font_class": "shebeishu-fenzhi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "7722220",
+      "name": "设备树-干线",
+      "font_class": "shebeishu-ganxian",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "7722221",
+      "name": "设备树-供电所",
+      "font_class": "shebeishu-gongdiansuo",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "7722222",
+      "name": "设备树-配电",
+      "font_class": "shebeishu-peidian",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "7722223",
+      "name": "设备树-输电",
+      "font_class": "shebeishu-shudian",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "7722224",
+      "name": "设备树-供电局",
+      "font_class": "shebeishu-gongdianju",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "7723753",
+      "name": "设备树-收缩",
+      "font_class": "shebeishu-shousuo",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "7723754",
+      "name": "设备树-展开",
+      "font_class": "shebeishu-zhankai",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "7899270",
+      "name": "架空导线",
+      "font_class": "jiakongdaoxian",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "7899271",
+      "name": "输电电缆",
+      "font_class": "shudiandianlan",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "7921702",
+      "name": "菜单-单线图",
+      "font_class": "caidan-danxiantu",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "7921703",
+      "name": "菜单-电源追溯",
+      "font_class": "caidan-dianyuanzhuisu",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "7921704",
+      "name": "菜单-定位",
+      "font_class": "caidan-dingwei",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "7921705",
+      "name": "菜单-供电半径",
+      "font_class": "caidan-gongdianbanjing",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "7921706",
+      "name": "菜单-供电区域",
+      "font_class": "caidan-gongdianquyu",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "7921707",
+      "name": "菜单-详情",
+      "font_class": "caidan-xiangqing",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "7921708",
+      "name": "菜单-图库",
+      "font_class": "caidan-tuku",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "7921709",
+      "name": "菜单-台账",
+      "font_class": "caidan-taizhang",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "7921710",
+      "name": "菜单-导出",
+      "font_class": "caidan-daochu",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "8142801",
+      "name": "搜索-返回",
+      "font_class": "sousuo-fanhui",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "8177912",
+      "name": "设备图例-水泥杆",
+      "font_class": "legend-shuinigan",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "8177913",
+      "name": "设备图例-铁杆",
+      "font_class": "legend-tiegan",
+      "unicode": "e66b",
+      "unicode_decimal": 58987
+    },
+    {
+      "icon_id": "8177914",
+      "name": "设备图例-营业厅",
+      "font_class": "legend-yingyeting",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "8177915",
+      "name": "设备图例-箱式变",
+      "font_class": "legend-xiangshibian",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "8177916",
+      "name": "设备图例-柱上避雷器",
+      "font_class": "legend-zhushangbileiqi",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "8177917",
+      "name": "设备图例-柱上负荷开关",
+      "font_class": "legend-zhushangfuhekaiguan",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "8177918",
+      "name": "设备图例-柱上断路器",
+      "font_class": "legend-zhushangduanluqi",
+      "unicode": "e670",
+      "unicode_decimal": 58992
+    },
+    {
+      "icon_id": "8177919",
+      "name": "设备图例-柱上高压表计",
+      "font_class": "legend-zhushanggaoyabiaoji",
+      "unicode": "e671",
+      "unicode_decimal": 58993
+    },
+    {
+      "icon_id": "8177920",
+      "name": "设备图例-柱上隔离开关",
+      "font_class": "legend-zhushanggelikaiguan",
+      "unicode": "e672",
+      "unicode_decimal": 58994
+    },
+    {
+      "icon_id": "8177921",
+      "name": "设备图例-柱上自动化负荷开关",
+      "font_class": "legend-zhushangzidonghuafuhekaiguan",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "8177922",
+      "name": "设备图例-柱上自动化断路器",
+      "font_class": "legend-zhushangzidonghuaduanluqi",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "8177923",
+      "name": "设备图例-柱上自动化故障指示器",
+      "font_class": "legend-zhushangzidonghuaguzhangzhishiqi",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "8177924",
+      "name": "设备图例-柱上无功补偿箱",
+      "font_class": "legend-zhushangwugongbuchangxiang",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "8177925",
+      "name": "设备图例-柱上计量装置",
+      "font_class": "legend-zhushangjiliangzhuangzhi",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "8177926",
+      "name": "设备图例-DTU",
+      "font_class": "legend-DTU",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "8177927",
+      "name": "设备图例-FTU",
+      "font_class": "legend-FTU",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "8177928",
+      "name": "设备图例-柱上故障指示器",
+      "font_class": "legend-zhushangguzhangzhishiqi",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "8177930",
+      "name": "设备图例-变电站",
+      "font_class": "legend-biandianzhan",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "8177931",
+      "name": "设备图例-TTU",
+      "font_class": "legend-TTU",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "8177933",
+      "name": "设备图例-电缆中间接头",
+      "font_class": "legend-dianlanzhongjianjietou",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "8177934",
+      "name": "设备图例-电缆分接箱",
+      "font_class": "legend-dianlanfenjiexiang",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "8177935",
+      "name": "设备图例-跌落式熔断器",
+      "font_class": "legend-dielashirongduanqi",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "8177936",
+      "name": "设备图例-电缆终端头",
+      "font_class": "legend-dianlanzhongduantou",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "8177937",
+      "name": "设备图例-发电厂",
+      "font_class": "legend-fadianchang",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "8177938",
+      "name": "设备图例-钢管杆",
+      "font_class": "legend-gangguangan",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "8177939",
+      "name": "设备图例-配点专变",
+      "font_class": "legend-peidianzhuanbian",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "8177940",
+      "name": "设备图例-户外开关箱",
+      "font_class": "legend-huwaikaiguanxiang",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "8177941",
+      "name": "设备图例-配电公变",
+      "font_class": "legend-peidiangongbian",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    },
+    {
+      "icon_id": "8177942",
+      "name": "设备图例-配电站",
+      "font_class": "legend-peidianzhan",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "8177943",
+      "name": "设备图例-电气连接点",
+      "font_class": "legend-dianqilianjiedian",
+      "unicode": "e687",
+      "unicode_decimal": 59015
+    },
+    {
+      "icon_id": "8177944",
+      "name": "设备图例-设备图例-开关房",
+      "font_class": "legend-kaiguanfang",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "8177945",
+      "name": "设备图例-低压配电箱",
+      "font_class": "legend-diyapeidianxiang",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "8178788",
+      "name": "设备图例-导线",
+      "font_class": "legend-daoxian",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "8178805",
+      "name": "设备图例-电缆",
+      "font_class": "legend-dianlan",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "8178894",
+      "name": "设备图例-低压落火点",
+      "font_class": "legend-diyalahuodian",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "8458147",
+      "name": "登录-关",
+      "font_class": "ziyuan",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "8475550",
+      "name": "登陆-开",
+      "font_class": "kai",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8761113",
+      "name": "001_变电",
+      "font_class": "_biandian",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "8761114",
+      "name": "002_变压器明细",
+      "font_class": "_bianyaqimingxi",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "8761115",
+      "name": "004_测量",
+      "font_class": "_celiang",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "8761116",
+      "name": "003_变压器型号",
+      "font_class": "_bianyaqixinghao",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "8761117",
+      "name": "005_查询统计",
+      "font_class": "_chaxuntongji",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "8761118",
+      "name": "006_带电状态",
+      "font_class": "_daidianzhuangtai",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "8761119",
+      "name": "009_地理分析",
+      "font_class": "_dilifenxi",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "8761120",
+      "name": "017_断路器明细",
+      "font_class": "_duanluqimingxi",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "8761121",
+      "name": "015_电网概览",
+      "font_class": "_dianwanggailan",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "8761122",
+      "name": "018_发电",
+      "font_class": "_fadian",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "8761123",
+      "name": "008_导线型号",
+      "font_class": "_daoxianxinghao",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "8761124",
+      "name": "014_电缆型号",
+      "font_class": "_dianlanxinghao",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "8761125",
+      "name": "024_工单统计",
+      "font_class": "_gongdantongji",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "8761126",
+      "name": "011_地理沿布图",
+      "font_class": "_diliyanbutu",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "8761127",
+      "name": "007_导线截面",
+      "font_class": "_daoxianjiemian",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "8761128",
+      "name": "020_分接箱明细",
+      "font_class": "_fenjiexiangmingxi",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "8761129",
+      "name": "023_杆塔型号",
+      "font_class": "_gantaxinghao",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "8761130",
+      "name": "026_共管线路",
+      "font_class": "_gongguanxianlu",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "8761131",
+      "name": "027_供电局",
+      "font_class": "_gongdianju",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "8761132",
+      "name": "030_环路冲突点",
+      "font_class": "_huanluchongtudian",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "8761133",
+      "name": "010_地理图",
+      "font_class": "_dilitu",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "8761134",
+      "name": "029_户外开关明细",
+      "font_class": "_huwaikaiguanmingxi",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "8761135",
+      "name": "035_模型合规性问题",
+      "font_class": "_moxingheguixingwenti",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "8761136",
+      "name": "033_联络分段",
+      "font_class": "_lianluofenduan",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "8761137",
+      "name": "022_杆塔明细",
+      "font_class": "_gantamingxi",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "8761138",
+      "name": "045_设备总表",
+      "font_class": "_shebeizongbiao",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "8761139",
+      "name": "051_缩小",
+      "font_class": "_suoxiao",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "8761140",
+      "name": "036_配电",
+      "font_class": "_peidian",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "8761141",
+      "name": "032_馈线明细",
+      "font_class": "_kuixianmingxi",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "8761142",
+      "name": "054_图形输出",
+      "font_class": "_tuxingshuchu",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "8761143",
+      "name": "012_地图显示控制",
+      "font_class": "_dituxianshikongzhi",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "8761144",
+      "name": "028_供电所",
+      "font_class": "_gongdiansuo",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "8761145",
+      "name": "031_架空导线",
+      "font_class": "_jiakongdaoxian",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "8761146",
+      "name": "025_工具",
+      "font_class": "_gongju",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "8761147",
+      "name": "053_统计分析",
+      "font_class": "_tongjifenxi",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "8761148",
+      "name": "044_设备图例",
+      "font_class": "_shebeituli",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "8761149",
+      "name": "021_负荷开关明细",
+      "font_class": "_fuhekaiguanmingxi",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "8761150",
+      "name": "041_热力图",
+      "font_class": "_relitu",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "8761151",
+      "name": "039_清除所有状态",
+      "font_class": "_qingchusuoyouzhuangtai",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "8761152",
+      "name": "037_配电房明细",
+      "font_class": "_peidianfangmingxi",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "8761153",
+      "name": "016_电压等级",
+      "font_class": "_dianyadengji",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "8761154",
+      "name": "060_运行状态",
+      "font_class": "_yunhangzhuangtai",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "8761155",
+      "name": "056_拓扑成环",
+      "font_class": "_tuopuchenghuan",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "8761156",
+      "name": "034_联络开关",
+      "font_class": "_lianluokaiguan",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "8761157",
+      "name": "063_专题图",
+      "font_class": "_zhuantitu",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "8761158",
+      "name": "059_箱变明细",
+      "font_class": "_xiangbianmingxi",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "8761159",
+      "name": "073_标注",
+      "font_class": "_biaozhu",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "8761160",
+      "name": "066_电网显示控制",
+      "font_class": "_dianwangxianshikongzhi",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "8761161",
+      "name": "042_设备明细",
+      "font_class": "_shebeimingxi",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "8761162",
+      "name": "077_明确冲突点",
+      "font_class": "_mingquechongtudian",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "8761163",
+      "name": "079_飓风",
+      "font_class": "_jufeng",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "8761164",
+      "name": "068_系统图",
+      "font_class": "_xitongtu",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "8761165",
+      "name": "048_书签修改",
+      "font_class": "_shuqianxiugai",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "8761166",
+      "name": "047_书签删除",
+      "font_class": "_shuqianshanchu",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "8761167",
+      "name": "083_后一视图",
+      "font_class": "_houyishitu",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "8761168",
+      "name": "057_拓扑连接问题",
+      "font_class": "_tuopulianjiewenti",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "8761169",
+      "name": "061_站线变户查询",
+      "font_class": "_zhanxianbianhuchaxun",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "8761170",
+      "name": "071_气泡",
+      "font_class": "_qipao",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "8761171",
+      "name": "074_分段开关",
+      "font_class": "_fenduankaiguan",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "8761172",
+      "name": "038_气象图",
+      "font_class": "_qixiangtu",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "8761173",
+      "name": "088_分支",
+      "font_class": "_fenzhi",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "8761174",
+      "name": "040_全图定位",
+      "font_class": "_quantudingwei",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "8761175",
+      "name": "064_专项分析",
+      "font_class": "_zhuanxiangfenxi",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "8761176",
+      "name": "065_资产属性",
+      "font_class": "_zichanshuxing",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "8761177",
+      "name": "068_开关操作",
+      "font_class": "_kaiguancaozuo",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "8761178",
+      "name": "080_空间查询",
+      "font_class": "_kongjianchaxun",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "8761179",
+      "name": "089_环网柜",
+      "font_class": "_huanwanggui",
+      "unicode": "e69f",
+      "unicode_decimal": 59039
+    },
+    {
+      "icon_id": "8761180",
+      "name": "062_质量数据",
+      "font_class": "_zhiliangshuju",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "8761181",
+      "name": "046_书签",
+      "font_class": "_shuqian",
+      "unicode": "e6a1",
+      "unicode_decimal": 59041
+    },
+    {
+      "icon_id": "8761182",
+      "name": "049_输电",
+      "font_class": "_shudian",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "8761183",
+      "name": "067_气象站点",
+      "font_class": "_qixiangzhandian",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "8761184",
+      "name": "070_储备混合仓",
+      "font_class": "_chubeihunhecang",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "8761185",
+      "name": "092_台变",
+      "font_class": "_taibian",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "8761186",
+      "name": "093_断路器-符合开关",
+      "font_class": "_duanluqi-fuhekaiguan",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "8761187",
+      "name": "069_报废物资仓",
+      "font_class": "_baofeiwuzicang",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "8761188",
+      "name": "094_隔离开关",
+      "font_class": "_gelikaiguan",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "8761189",
+      "name": "075_可疑冲突点",
+      "font_class": "_keyichongtudian",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "8761190",
+      "name": "050_搜索",
+      "font_class": "_sousuo",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "8761191",
+      "name": "085_架空导线",
+      "font_class": "_jiakongdaoxian1",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "8761192",
+      "name": "097_配电箱",
+      "font_class": "_peidianxiang",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "8761193",
+      "name": "086_电缆",
+      "font_class": "_dianlan",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "8761194",
+      "name": "078_气象站点分布图",
+      "font_class": "_qixiangzhandianfenbutu",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "8761195",
+      "name": "076_联络开关",
+      "font_class": "_lianluokaiguan1",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "8761196",
+      "name": "052_同杆共架",
+      "font_class": "_tonggangongjia",
+      "unicode": "e6b0",
+      "unicode_decimal": 59056
+    },
+    {
+      "icon_id": "8761197",
+      "name": "103_作业任务",
+      "font_class": "_zuoyerenwu",
+      "unicode": "e6b1",
+      "unicode_decimal": 59057
+    },
+    {
+      "icon_id": "8761198",
+      "name": "101_南网",
+      "font_class": "_nanwang",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "8761199",
+      "name": "082_前一视图",
+      "font_class": "_qianyishitu",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "8761200",
+      "name": "102_导入设备ID",
+      "font_class": "_daorushebeiID",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "8761201",
+      "name": "099_内表箱",
+      "font_class": "_neibiaoxiang",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "8761202",
+      "name": "091_分支箱",
+      "font_class": "_fenzhixiang",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "8761203",
+      "name": "112_返回",
+      "font_class": "_fanhui",
+      "unicode": "e6b7",
+      "unicode_decimal": 59063
+    },
+    {
+      "icon_id": "8761204",
+      "name": "111_倒序",
+      "font_class": "_daoxu",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "8761205",
+      "name": "109_返回上一级",
+      "font_class": "_fanhuishangyiji",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "8761206",
+      "name": "055_退出",
+      "font_class": "_tuichu",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "8761207",
+      "name": "107_数据表格",
+      "font_class": "_shujubiaoge",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "8761208",
+      "name": "114_圆形",
+      "font_class": "_yuanxing",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "8761209",
+      "name": "096_分布式电源",
+      "font_class": "_fenbushidianyuan",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "8761210",
+      "name": "105_文件夹",
+      "font_class": "_wenjianjia",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "8761211",
+      "name": "110_正序",
+      "font_class": "_zhengxu",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "8761212",
+      "name": "013_电缆明细",
+      "font_class": "_dianlanmingxi",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "8761213",
+      "name": "019_放大",
+      "font_class": "_fangda",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "8761214",
+      "name": "108_数据图形",
+      "font_class": "_shujutuxing",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "8761215",
+      "name": "113_正方形",
+      "font_class": "_zhengfangxing",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "8761216",
+      "name": "120_字体",
+      "font_class": "_ziti",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "8761217",
+      "name": "123_箭头",
+      "font_class": "_jiantou",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "8761218",
+      "name": "116_选择设备",
+      "font_class": "_xuanzeshebei",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "8761219",
+      "name": "115_多边形",
+      "font_class": "_duobianxing",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "8761220",
+      "name": "058_线路绝缘",
+      "font_class": "_xianlujueyuan",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "8761221",
+      "name": "043_设备树",
+      "font_class": "_shebeishu",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "8761222",
+      "name": "132_雷电",
+      "font_class": "_leidian",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "8761223",
+      "name": "129_透明度",
+      "font_class": "_toumingdu",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "8761224",
+      "name": "125_撤销",
+      "font_class": "_chexiao",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "8761225",
+      "name": "135_左箭头",
+      "font_class": "_zuojiantou",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "8761226",
+      "name": "117_点缓冲",
+      "font_class": "_dianhuanchong",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "8761227",
+      "name": "072_专业表计仓",
+      "font_class": "_zhuanyebiaojicang",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "8761228",
+      "name": "128_自定标签",
+      "font_class": "_zidingbiaoqian",
+      "unicode": "e6d0",
+      "unicode_decimal": 59088
+    },
+    {
+      "icon_id": "8761229",
+      "name": "141_区段统计",
+      "font_class": "_quduantongji",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "8761230",
+      "name": "138_上下收缩",
+      "font_class": "_shangxiashousuo",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    },
+    {
+      "icon_id": "8761231",
+      "name": "081_视图操作",
+      "font_class": "_shitucaozuo",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "8761232",
+      "name": "121_点",
+      "font_class": "_dian",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "8761233",
+      "name": "144_雷击跳闸风险",
+      "font_class": "_leijitiaozhafengxian",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "8761234",
+      "name": "137_左右收缩",
+      "font_class": "_zuoyoushousuo",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "8761235",
+      "name": "153_打叉",
+      "font_class": "_dacha",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "8761236",
+      "name": "095_熔断器",
+      "font_class": "_rongduanqi",
+      "unicode": "e6d8",
+      "unicode_decimal": 59096
+    },
+    {
+      "icon_id": "8761237",
+      "name": "147_台风路径",
+      "font_class": "_taifenglujing",
+      "unicode": "e6d9",
+      "unicode_decimal": 59097
+    },
+    {
+      "icon_id": "8761238",
+      "name": "084_变电站-发电厂",
+      "font_class": "_biandianzhan-fadianchang",
+      "unicode": "e6da",
+      "unicode_decimal": 59098
+    },
+    {
+      "icon_id": "8761239",
+      "name": "156_日期",
+      "font_class": "_riqi",
+      "unicode": "e6db",
+      "unicode_decimal": 59099
+    },
+    {
+      "icon_id": "8761240",
+      "name": "126_台风",
+      "font_class": "_taifeng",
+      "unicode": "e6dc",
+      "unicode_decimal": 59100
+    },
+    {
+      "icon_id": "8761241",
+      "name": "087_杆塔",
+      "font_class": "_ganta",
+      "unicode": "e6dd",
+      "unicode_decimal": 59101
+    },
+    {
+      "icon_id": "8761242",
+      "name": "159_配电",
+      "font_class": "_peidian1",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    },
+    {
+      "icon_id": "8761243",
+      "name": "150_设置",
+      "font_class": "_shezhi",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "8761244",
+      "name": "118_线缓冲",
+      "font_class": "_xianhuanchong",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "8761245",
+      "name": "140_电网专题图",
+      "font_class": "_dianwangzhuantitu",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    },
+    {
+      "icon_id": "8761246",
+      "name": "127_单线图对比",
+      "font_class": "_danxiantuduibi",
+      "unicode": "e6e2",
+      "unicode_decimal": 59106
+    },
+    {
+      "icon_id": "8761247",
+      "name": "092_箱变",
+      "font_class": "_xiangbian",
+      "unicode": "e6e3",
+      "unicode_decimal": 59107
+    },
+    {
+      "icon_id": "8761248",
+      "name": "090_开关站",
+      "font_class": "_kaiguanzhan",
+      "unicode": "e6e4",
+      "unicode_decimal": 59108
+    },
+    {
+      "icon_id": "8761249",
+      "name": "133_打勾",
+      "font_class": "_dagou",
+      "unicode": "e6e5",
+      "unicode_decimal": 59109
+    },
+    {
+      "icon_id": "8761250",
+      "name": "130_配电站",
+      "font_class": "_peidianzhan",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    },
+    {
+      "icon_id": "8761251",
+      "name": "119_多边形缓冲",
+      "font_class": "_duobianxinghuanchong",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "8761252",
+      "name": "151_返回",
+      "font_class": "_fanhui1",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "8761253",
+      "name": "122_线",
+      "font_class": "_xian",
+      "unicode": "e6e9",
+      "unicode_decimal": 59113
+    },
+    {
+      "icon_id": "8761254",
+      "name": "136_左右展开",
+      "font_class": "_zuoyouzhankai",
+      "unicode": "e6ea",
+      "unicode_decimal": 59114
+    },
+    {
+      "icon_id": "8761255",
+      "name": "146_综合风险",
+      "font_class": "_zonghefengxian",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "8761256",
+      "name": "134_右箭头",
+      "font_class": "_youjiantou",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "8761257",
+      "name": "124_标签",
+      "font_class": "_biaoqian",
+      "unicode": "e6ed",
+      "unicode_decimal": 59117
+    },
+    {
+      "icon_id": "8761258",
+      "name": "152_打勾",
+      "font_class": "_dagou1",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "8761259",
+      "name": "157_雷电分析",
+      "font_class": "_leidianfenxi",
+      "unicode": "e6ef",
+      "unicode_decimal": 59119
+    },
+    {
+      "icon_id": "8761260",
+      "name": "139_上下展开",
+      "font_class": "_shangxiazhankai",
+      "unicode": "e6f0",
+      "unicode_decimal": 59120
+    },
+    {
+      "icon_id": "8761261",
+      "name": "143_最短路径分析",
+      "font_class": "_zuiduanlujingfenxi",
+      "unicode": "e6f1",
+      "unicode_decimal": 59121
+    },
+    {
+      "icon_id": "8761262",
+      "name": "154_叹号",
+      "font_class": "_tanhao",
+      "unicode": "e6f2",
+      "unicode_decimal": 59122
+    },
+    {
+      "icon_id": "8761263",
+      "name": "160_输电",
+      "font_class": "_shudian1",
+      "unicode": "e6f3",
+      "unicode_decimal": 59123
+    },
+    {
+      "icon_id": "8761264",
+      "name": "149_刷新",
+      "font_class": "_shuaxin",
+      "unicode": "e6f4",
+      "unicode_decimal": 59124
+    },
+    {
+      "icon_id": "8761265",
+      "name": "131_倒三角",
+      "font_class": "_daosanjiao",
+      "unicode": "e6f5",
+      "unicode_decimal": 59125
+    },
+    {
+      "icon_id": "8761266",
+      "name": "155_陕西地电LOGO",
+      "font_class": "_shanxididianLOGO",
+      "unicode": "e6f6",
+      "unicode_decimal": 59126
+    },
+    {
+      "icon_id": "8761267",
+      "name": "145_风灾跳闸风险",
+      "font_class": "_fengzaitiaozhafengxian",
+      "unicode": "e6f7",
+      "unicode_decimal": 59127
+    },
+    {
+      "icon_id": "8761268",
+      "name": "142_设备缓冲",
+      "font_class": "_shebeihuanchong",
+      "unicode": "e6f8",
+      "unicode_decimal": 59128
+    },
+    {
+      "icon_id": "8761269",
+      "name": "100_测量仪表",
+      "font_class": "_celiangyibiao",
+      "unicode": "e6f9",
+      "unicode_decimal": 59129
+    },
+    {
+      "icon_id": "8761270",
+      "name": "148_台风影响设备分析",
+      "font_class": "_taifengyingxiangshebeifenxi",
+      "unicode": "e6fa",
+      "unicode_decimal": 59130
+    },
+    {
+      "icon_id": "8761271",
+      "name": "158_变电",
+      "font_class": "_biandian1",
+      "unicode": "e6fb",
+      "unicode_decimal": 59131
+    },
+    {
+      "icon_id": "8761272",
+      "name": "106_导出Excel",
+      "font_class": "_daochuExcel",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "8761273",
+      "name": "098_落火点",
+      "font_class": "_lahuodian",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "8761274",
+      "name": "104_文件",
+      "font_class": "_wenjian",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "11840104",
+      "name": "全图",
+      "font_class": "quantu",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "11860647",
+      "name": "设备图例-变电站",
+      "font_class": "legend-biandianzhan-copy",
+      "unicode": "e700",
+      "unicode_decimal": 59136
+    },
+    {
+      "icon_id": "11929642",
+      "name": "单线图",
+      "font_class": "danxiantu",
+      "unicode": "e701",
+      "unicode_decimal": 59137
+    },
+    {
+      "icon_id": "11929643",
+      "name": "电网着色",
+      "font_class": "dianwangzhuose",
+      "unicode": "e702",
+      "unicode_decimal": 59138
+    },
+    {
+      "icon_id": "11929644",
+      "name": "电网应用",
+      "font_class": "dianwangyingyong",
+      "unicode": "e703",
+      "unicode_decimal": 59139
+    },
+    {
+      "icon_id": "11929645",
+      "name": "地理接线图",
+      "font_class": "dilijiexiantu",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "11929646",
+      "name": "风区",
+      "font_class": "fengqu",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    },
+    {
+      "icon_id": "11929647",
+      "name": "工具箱",
+      "font_class": "gongjuxiang",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "11929648",
+      "name": "工单统计",
+      "font_class": "gongdantongji",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "11929649",
+      "name": "环境气象",
+      "font_class": "huanjingqixiang",
+      "unicode": "e708",
+      "unicode_decimal": 59144
+    },
+    {
+      "icon_id": "11929650",
+      "name": "环路冲突点",
+      "font_class": "huanluchongtudianfenxi",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "11929651",
+      "name": "环网图",
+      "font_class": "huanwangtu",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "11929652",
+      "name": "角度量测",
+      "font_class": "jiaoduliangce",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "11929653",
+      "name": "截图",
+      "font_class": "jietu",
+      "unicode": "e70c",
+      "unicode_decimal": 59148
+    },
+    {
+      "icon_id": "11929654",
+      "name": "停电分析",
+      "font_class": "kaiguanmonicaozuo",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "11929655",
+      "name": "冰区",
+      "font_class": "bingqu",
+      "unicode": "e70e",
+      "unicode_decimal": 59150
+    },
+    {
+      "icon_id": "11929656",
+      "name": "空间分析",
+      "font_class": "kongjianfenxi",
+      "unicode": "e70f",
+      "unicode_decimal": 59151
+    },
+    {
+      "icon_id": "11929657",
+      "name": "联络开关",
+      "font_class": "lianluokaiguanfenxi",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "11929658",
+      "name": "面积量测",
+      "font_class": "mianjiliangce",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "11929659",
+      "name": "拉框打印",
+      "font_class": "lakuangdayin",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "11929660",
+      "name": "雷区",
+      "font_class": "leiqu",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "11929661",
+      "name": "全图导出",
+      "font_class": "quantudaochu",
+      "unicode": "e714",
+      "unicode_decimal": 59156
+    },
+    {
+      "icon_id": "11929662",
+      "name": "全图打印",
+      "font_class": "quantudayin",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "11929663",
+      "name": "设备图例",
+      "font_class": "shebeituli",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "11929664",
+      "name": "山火",
+      "font_class": "shanhuo",
+      "unicode": "e717",
+      "unicode_decimal": 59159
+    },
+    {
+      "icon_id": "11929665",
+      "name": "拉框导出",
+      "font_class": "lakuangdaochu",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "11929666",
+      "name": "书签",
+      "font_class": "shuqian",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "11929667",
+      "name": "设备台帐",
+      "font_class": "shebeitaizhang",
+      "unicode": "e71a",
+      "unicode_decimal": 59162
+    },
+    {
+      "icon_id": "11929668",
+      "name": "内涝",
+      "font_class": "neilao",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "11929669",
+      "name": "天气",
+      "font_class": "tianqi",
+      "unicode": "e71c",
+      "unicode_decimal": 59164
+    },
+    {
+      "icon_id": "11929670",
+      "name": "同塔同廊",
+      "font_class": "tongtatonglang",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "11929671",
+      "name": "污区",
+      "font_class": "wuqu",
+      "unicode": "e71e",
+      "unicode_decimal": 59166
+    },
+    {
+      "icon_id": "11929672",
+      "name": "同杆共架",
+      "font_class": "tonggangongjiatu",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "11929673",
+      "name": "图层控制",
+      "font_class": "tucengkongzhi",
+      "unicode": "e720",
+      "unicode_decimal": 59168
+    },
+    {
+      "icon_id": "11929674",
+      "name": "台风",
+      "font_class": "taifeng",
+      "unicode": "e721",
+      "unicode_decimal": 59169
+    },
+    {
+      "icon_id": "11929675",
+      "name": "自定义标注",
+      "font_class": "zidingyibiaozhu",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "11929676",
+      "name": "联络分段",
+      "font_class": "xianlulianluofenduanfenxi",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "11929677",
+      "name": "站线变户",
+      "font_class": "zhanxianbianhu",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    },
+    {
+      "icon_id": "11929678",
+      "name": "相序图",
+      "font_class": "xiangxutu",
+      "unicode": "e725",
+      "unicode_decimal": 59173
+    },
+    {
+      "icon_id": "11929679",
+      "name": "综合统计",
+      "font_class": "zonghetongji",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "11929680",
+      "name": "长度量测",
+      "font_class": "changduliangce",
+      "unicode": "e727",
+      "unicode_decimal": 59175
+    }
+  ]
+}

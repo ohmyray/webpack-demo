@@ -1,15 +1,67 @@
+<!--
+  @Author: caijinzhang
+  @Date:   2020-05-27 11:27:55
+  @Last Modified by:   caijinzhang
+  @Last Modified time: 2020-08-10 10:01:44
+-->
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-</head>
-<body>
-  <script src="./dist/large-number.min.js"></script>
-  <script>
-    var res = largeNumber("999", "1");
-    console.log(res)
-  </script>
-</body>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <title>WebGIS组件</title>
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="./static/assets/css/dx.common.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="./static/assets/css/dx.light.css"
+    />
+
+    <script src="./static/config/GlobalConfig.js"></script>
+    <script src="http://localhost:8189/webgisapi.index.js"></script>
+    <!-- <script src="http://172.16.12.39:2012/grc/webgisapi/webgisapi.index.js"></script>  -->
+    <!-- <script src="http://localhost:8180/webgisapiproxy/webgisapi.index.js"></script> -->
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      html,
+      body,
+      #map {
+        height: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div id="map" style="height: 100%; position: absolute; width: 100%"></div>
+    <style>
+      @import url('./static/assets/css/gisIconfont.css');
+      .webgis-svgpanel svg {
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+    <script>
+      var map = (window.map = new WebGIS.Map({
+        container: 'map',
+        userName: 'bs01',
+        password: '1',
+        center: [113.23, 23.16],
+        zoom: 4.9,
+        style: style,
+      }));
+      window.onload = () => {
+        map.on('load', () => {
+          console.log('地图加载完成');
+        });
+      };
+    </script>
+    <!-- built files will be auto injected -->
+  </body>
 </html>
