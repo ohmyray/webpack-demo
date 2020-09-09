@@ -2,9 +2,9 @@
   "name": "webgis-component",
   "version": "1.0.0",
   "description": "webgis",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "test": "test"
+    "build": "rimraf ./dist && webpack"
   },
   "keywords": [
     "webgis"
@@ -12,6 +12,7 @@
   "author": "ohmyray",
   "license": "ISC",
   "devDependencies": {
+    "terser-webpack-plugin": "^4.1.0",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   }
