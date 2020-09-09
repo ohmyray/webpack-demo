@@ -3,14 +3,15 @@
 const TerserWebpackPlugin = require('terser-webpack-plugin');
 
 module.exports = {
-    mode: "none",
+    mode: process.env.NODE_ENV,
+    // devtool: 'source-map',
     entry: {
         'large-number': './src/index.js',
         'large-number.min': './src/index.js'
     },
     output: {
         filename: '[name].js',
-        library: 'largeNumber', // 指定库的名称，及库的全局变量
+        library: 'WebGisC', // 指定库的名称，及库的全局变量
         libraryTarget: 'umd', // 支持库引入的方式
         libraryExport: 'default'
     },
