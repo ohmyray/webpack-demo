@@ -4,7 +4,7 @@
   "description": "webgis",
   "main": "index.js",
   "scripts": {
-    "build": "rimraf ./dist && webpack"
+    "build": "rimraf ./dist && npx webpack --config ./config/webpack.config.js"
   },
   "keywords": [
     "webgis"
